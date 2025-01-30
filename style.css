@@ -33,6 +33,11 @@ header {
 	color: #fff;
 	padding: 5px 100px 0;
 }
+.logo {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
 header h2 span {
 	color: #bf0a30;
 }
